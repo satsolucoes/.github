@@ -38,7 +38,7 @@ Nosso time é composto por 10 desenvolvedores de todos os níveis e entre nossa 
 # Redes Sociais
 <a href="https://www.linkedin.com/company/satsolucoes/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzrdlv1qle8ssb16zhv0dVmNpGUcLxqIlo-A&usqp=CAU" width="24px" height="24px"></a>
 <a href="https://www.instagram.com/satsolucoes/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" width="24px" height="24px"></a>
-<a href="https://www.facebook.com/satsolucoes"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Facebook_Icon_%28Single_Path_-_Transparent_%22f%22%29.svg/1024px-Facebook_Icon_%28Single_Path_-_Transparent_%22f%22%29.svg.png" width="24px" height="24px"></a>
+<a href="https://www.facebook.com/satsolucoes"><img src="https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:Facebook_f_logo_(2019).svg" width="24px" height="24px"></a>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
