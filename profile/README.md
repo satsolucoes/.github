@@ -1,4 +1,4 @@
-<a href="https://satsolucoes.com.br/"><img src="https://satsolucoes.com.br/wp-content/uploads/2020/07/Logo-SAT-Tecnologia-vazado.png" width="50%"></a>
+<a href="https://satsolucoes.com.br/"><img src="https://static.wixstatic.com/media/a30425_351f1910f058429c9d208bbcde321f1c~mv2.png/v1/fill/w_127,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-SAT-Tecnologia-vazado-int-branco.png" width="50%"></a>
 
 A SAT é uma empresa que tem como objetivo melhorar a produtividade da sua empresa por meio de serviços e sistemas que organizam e otimizam as tarefas dos seus colaboradores.
 
